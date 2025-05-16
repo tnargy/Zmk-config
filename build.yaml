@@ -19,9 +19,9 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: nrf52840_m2
     shield: splitkb_aurora_sweep_left
-  - board: nice_nano_v2
+  - board: nrf52840_m2
     shield: splitkb_aurora_sweep_right
-  - board: nice_nano_v2
+  - board: nrf52840_m2
     shield: settings_reset
